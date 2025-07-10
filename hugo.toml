@@ -2,3 +2,12 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'victorcoscolin'
 theme = 'ficurinia'
+
+[params]
+
+    logo = "/logo.svg"
+    favicon = "/favicon.png"
+    faviconIco = "/favicon.ico"
+    appletouch = "/apple-touch-icon.png"
+    svgicon = "/logo.svg"
+    icon512 = "/icon512.png"
