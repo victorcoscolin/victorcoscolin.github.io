@@ -5,9 +5,9 @@ theme = 'ficurinia'
 
 [params]
 
-    logo = "/logo.svg"
-    favicon = "/favicon.png"
-    faviconIco = "/favicon.ico"
-    appletouch = "/apple-touch-icon.png"
-    svgicon = "/logo.svg"
-    icon512 = "/icon512.png"
+    logo = "/static/logo.svg"
+    favicon = "/static/favicon.png"
+    faviconIco = "/static/favicon.ico"
+    appletouch = "/static/apple-touch-icon.png"
+    svgicon = "/static/logo.svg"
+    icon512 = "/static/icon512.png"
