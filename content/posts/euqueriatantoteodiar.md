@@ -23,4 +23,4 @@ você estar lá. Queria que você morrese de um vez.
 Hoje de manhã eu ví sua mão, e todas as coisas que eu me esforcei tanto
 pra guardar fugiram de dentro de mim, não consegui não chorar, agora eu
 escrevo isso como uma tentativa de mostrar pra mim mesmo o porquê eu
-deveria te odiar.
+deveria tanto te odiar.
