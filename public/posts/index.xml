@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
+  <channel>
+    <title>Posts on victorcoscolin</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on victorcoscolin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" /><icon>http://localhost:1313/logo.svg</icon>
+    
+    
+    <item>
+      <title>Eu queria tanto te odiar</title>
+      <link>http://localhost:1313/posts/euqueriatantoteodiar/</link>
+      <pubDate>Fri, 25 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/euqueriatantoteodiar/</guid>
+      <description><![CDATA[<hr>
+<p>Mas parece impossível, não entendo como que mesmo depois de tanto tempo
+essa memórias continuam tão ardentes na minha mente. Quando lembro do
+nosso primeiro beijo na escada rolante, o primeiro filme que assistimos
+juntos, a primeira vez sozinhos em casa, quando dormimos, sonhamos e acordamos
+juntos</p>
+]]></description>
+      
+    </item>
+    
+    
+  </channel>
+</rss>
