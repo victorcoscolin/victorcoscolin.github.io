@@ -1,6 +1,6 @@
 ---
 title: Eu queria tanto te odiar
-date: 2025-07-25
+date: 2025-08-16
 ---
 
 ---
