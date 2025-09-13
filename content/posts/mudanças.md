@@ -16,7 +16,7 @@ o elemento X, uma garrafa de 500ml de ypioca prata, que guardei por
 mais de um ano fechada com balas de iogurte dentro, completamente
 vazia. Como não havia aula no dia seguinte, Eu acabei por passar
 a madrugada inteira bebendo, jogando e proferindo os maiores
-disparates da história humana. Agora ciente das causas do meu estado
+disparates da história humana com meus amigos. Agora ciente das causas do meu estado
 miserável, decido ir direto para o chuveiro, precisava tirar aquele cheiro
 de álcool e suor e ficar minimamente apresentável para o café da manhã.
 Quando desci as escadas estranhei não sentir o cheiro de café, passei
