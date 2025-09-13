@@ -1,22 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
-  <channel>
-    <title>Posts on victorcoscolin</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on victorcoscolin</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 13 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" /><icon>http://localhost:1313/logo.svg</icon>
-    
-    
-    <item>
-      <title>As coisas mudaram demais</title>
-      <link>http://localhost:1313/posts/mudan%C3%A7as/</link>
-      <pubDate>Sat, 13 Sep 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/mudan%C3%A7as/</guid>
-      <description><![CDATA[<hr>
-<h3 id="o-acordar">O acordar</h3>
-<p>Abro os olhos e a sensação que tenho é de que minhas funções neurais
+---
+title: As coisas mudaram demais
+date: 2025-09-13
+---
+
+---
+### O acordar
+
+Abro os olhos e a sensação que tenho é de que minhas funções neurais
 foram completamente desativadas, todo o meu corpo dói e estou banhado
 de suor (com o ventilador apontado pro lado oposto da minha cama
 não havia como o resultado ser outro). Me levanto e começo a montar
@@ -30,14 +20,17 @@ disparates da história humana. Agora ciente das causas do meu estado
 miserável, decido ir direto para o chuveiro, precisava tirar aquele cheiro
 de álcool e suor e ficar minimamente apresentável para o café da manhã.
 Quando desci as escadas estranhei não sentir o cheiro de café, passei
-por minha mãe e desejei bom dia, ela respondeu: &ldquo;Boa tarde&rdquo;.
+por minha mãe e desejei bom dia, ela respondeu: "Boa tarde".
 Chego na cozinha e me deparo com o almoço pronto e somente dois
 pedaços de frango na frigideira esperando por mim. Estava tudo frio,
 era mais de 1 hora da tarde. Enquanto almoçava minha mãe perguntou
 se eu gostaria de ir para as dunas ver o pôr do sol, sem pensar duas
-vezes aceitei, é um lugar muito especial para mim, que visito desde pequeno.</p>
-<h3 id="o-caminho">O caminho</h3>
-<p>Entramos no nosso velho carrinho, coloquei uma música para tocar e iniciamos a
+vezes aceitei, é um lugar muito especial para mim, que visito desde pequeno.
+
+
+### O caminho
+
+Entramos no nosso velho carrinho, coloquei uma música para tocar e iniciamos a
 viagem. Minha mãe logo começou a falar como havia um bom tempo que não faziamos nada
 juntos, só eu e ela. Era verdade, desde que ela conheceu meu padrasto e,
 principalmente, desde o nascimento da minha irmã mais nova, paramos de ter
@@ -50,19 +43,25 @@ entende de sacrifícios, essa pessoa é ela. Abriu mão da sua infância e adole
 passou 10 anos casada com uma ilusão, todo o dinheiro que ela recebia era reservado
 à minha criação, deixou seus sonhos de lado, transformou as tripas em coração e
 fez o que precisava ser feito para garantir o suprimento de todas as minhas
-necessidades. A pessoa que eu mais admiro nesse mundo é minha mãe.</p>
-<h3 id="o-píer">O píer</h3>
-<p>Ao chegar, paramos o carro e decidimos, antes de subir as dunas, passar pelo &ldquo;novo&rdquo;
+necessidades. A pessoa que eu mais admiro nesse mundo é minha mãe.
+
+
+### O píer
+
+Ao chegar, paramos o carro e decidimos, antes de subir as dunas, passar pelo "novo"
 complexo gastronômico (inaugurado em 2022), que ainda não tínhamos conhecido.
 Caminhamos por várias barracas às margens do rio e paramos no píer para apreciar
 aquela bela paisagem. Continuamos conversando sobre a vida, enquanto conferia se
 minhas habilidades de epostracismo não haviam se perdido com o tempo. Um dia desses
 eu era um pirralho, descalço na lama, arremessando conchas no rio por horas, sem
 nenhuma preocupação. Hoje eu sou um adulto, de chinelo no píer, arremessando pedaços
-dos tijolos que sobraram da construção do &ldquo;novo&rdquo; complexo gastronômico no rio,
-reclamando da vida.</p>
-<h3 id="a-duna">A duna</h3>
-<p>No fim da tarde continuamos nosso objetivo principal, subir a duna para assistir
+dos tijolos que sobraram da construção do "novo" complexo gastronômico no rio,
+reclamando da vida.
+
+
+### A duna
+
+No fim da tarde continuamos nosso objetivo principal, subir a duna para assistir
 o pôr do sol. No pé da duna, olhei para o topo encarando meu destino e criando coragem
 para iniciar essa grande escalada, até que me deparo com uma figura que roubou minha
 atenção, um rapaz com uma fantasia do pânico e um megafone gritava e apontava para uma
@@ -80,9 +79,12 @@ de ambulantes querendo fazer dinheiro de qualquer forma.
 Tentamos ignorar os vendedores e aproveitar aquele momento, rapidamente o sol se escondeu
 como se estivesse tímido por ter se tornado a atração principal. Com nosso objetivo
 concluído, decidimos voltar para casa, apostamos corrida até o pé da duna e caminhamos
-até o carro.</p>
-<h3 id="a-volta">A volta</h3>
-<p>Minha mãe perguntou o que eu preferia, comer algo por lá, no &ldquo;novo&rdquo; complexo
+até o carro.
+
+
+### A volta
+
+Minha mãe perguntou o que eu preferia, comer algo por lá, no "novo" complexo
 gastronômico, ou passar na padaria para tomarmos café todos juntos em casa, como estava
 me sentindo nostálgico, decidi passar na padaria.
 Coloquei uma música para tocar e iniciamos a viagem, na segunda música, minha mãe se mostrou
@@ -100,40 +102,4 @@ maneira melhor de começar a noite, ela pôs a mesa e sentamos para comer, todos
 costumávamos, porém em menos de um minuto minha irmã deixou a mesa para ficar na frente televisão e meu
 padrasto nem sequer colocava algo no prato para comer, aparentemente ocorria algo muito mais
 interessante na tela do celular dele, no fim só eu e minha mãe comemos algo, olhando um para
-o outro e percebendo como as coisas haviam mudado.</p>
-]]></description>
-      
-    </item>
-    
-    
-    
-    <item>
-      <title>Eu queria tanto te odiar</title>
-      <link>http://localhost:1313/posts/euqueriatantoteodiar/</link>
-      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/euqueriatantoteodiar/</guid>
-      <description><![CDATA[<hr>
-<p>Mas parece impossível, não entendo como, mesmo depois de tanto tempo
-essas memórias continuam tão ardentes na minha mente. Quando lembro do
-nosso primeiro beijo na escada rolante, o primeiro filme que assistimos
-juntos, a primeira vez sozinhos em casa, quando dormimos, sonhamos e acordamos
-juntos, as noites em claro que passamos conversando, as piadas internas,
-as idas à praia, os banhos de mar, todas as vezes que falamos mal dos outros,
-quando lembro de todas essas coisas eu não consigo odiar você.</p>
-<p>E você ainda teve coragem de dizer que não lembrava da gente sendo feliz
-juntos. Já eu, não lembrava de você ser assim.</p>
-<p>Eu queria tanto te odiar, quem sabe assim seria mais fácil te esquecer,
-parar de te procurar na multidão, por mais que não faça o menor sentido
-você estar lá. Queria que você morrese de um vez.</p>
-<p>Hoje de manhã eu ví sua mão, e todas as coisas que eu me esforcei tanto
-pra guardar fugiram de dentro de mim, não consegui não chorar, agora eu
-escrevo isso como uma tentativa de mostrar pra mim mesmo o porquê eu
-deveria tanto te odiar.</p>
-]]></description>
-      
-    </item>
-    
-    
-  </channel>
-</rss>
+o outro e percebendo como as coisas haviam mudado.
