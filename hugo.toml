@@ -14,4 +14,4 @@ theme = 'ficurinia'
 
 [markup.goldmark.renderer]
     
-    hardWraps = true
+    hardWraps = true
