@@ -11,3 +11,5 @@ theme = 'ficurinia'
     appletouch = "/apple-touch-icon.png"
     svgicon = "/logo.svg"
     icon512 = "/icon512.png"
+    [markup.goldmark.renderer]
+    hardWraps = true
